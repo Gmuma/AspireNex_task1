@@ -20,3 +20,8 @@ How to Play
 Acknowledgements
 -> Python community for the awesome language and libraries.
 -> Inspiration from classic game implementations.
+
+Output:
+
+
+
